@@ -31,5 +31,5 @@ errors = {
 }
 ```
 # Do you know what is binary code?
-### I have a questions for you, what is my name?
+### I have a question for you, what is my name?
 - 01010100 01100001 01110010 01100011 11101101 01110011 01101001 01101111
